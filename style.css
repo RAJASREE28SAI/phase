@@ -1,0 +1,23 @@
+.main{
+  display:flex;
+  border:2px solid #000;
+  justify-content: space-around;
+  background:purple;
+}
+.s1{
+  border:2px solid #add;
+  morgin:5%;
+  padding:2%;
+  background:pink;
+  text-align: center;
+  border-radius:10%
+}
+/* h1,p{
+  text-align: center;
+} */
+body{
+background:;
+}
+a{
+  justify-content: center;
+}
